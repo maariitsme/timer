@@ -1,0 +1,19 @@
+div{
+    height: 90vh;
+    width: 99vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#timer{
+    height: 150px;
+    width: 350px;
+    color: aliceblue;
+    font-size: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    border-radius: 80px;
+    background-color:black;
+}
