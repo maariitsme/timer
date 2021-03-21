@@ -1,4 +1,4 @@
 # Simple Timer
 
 
-## visit here :    https://maariitsme1.github.io/timer.github.io/
+## visit here :    https://maariitsme.github.io/timer/
